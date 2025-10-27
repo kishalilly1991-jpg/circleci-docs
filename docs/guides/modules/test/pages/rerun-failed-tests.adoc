@@ -1,4 +1,4 @@
-= Rerun failed tests
+1= Rerun failed tests
 :page-platform: Cloud
 :page-description: How to rerun only failed tests in a job and optimize credit usage.
 :experimental:
